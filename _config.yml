@@ -20,16 +20,6 @@ github_username:  elizabeth-spingou
 # instagram_username: jameswgrant
 # linkedin_username: jameswgrant
 
-# Additional icon links
-# additional_links:
-# - title: itsgoingto.be
-#   icon: fas fa-globe
-#   url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
@@ -53,6 +43,14 @@ content:
 
           I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
 
+      - layout: left
+        title: Κέντρο Εκπαιδεύσεως και Αποκαταστάσεως Tυφλών
+        caption: 2017
+        sub_title: Πιστοποίηση γνώσης του συστήματος γραφής και ανάγνωσης τυφλών braille  από το Κέντρο Εκπαιδεύσεως και Αποκαταστάσεως Tυφλών
+        description: | # this will include new lines to allow paragraphs
+          Πρόκειται για σύστημα γραφής και ανάγνωσης – και όχι γλώσσα όπως αρκετοί πιστεύουν – των τυφλών, το οποίο έχει αναγνωριστεί επίσημα από την πολιτεία με τον νόμο 36/99 του 2008. Δημιουργήθηκε από τον Louis Braiile το 1829, ο οποίος έχασε την όρασή του ενώ ήταν ακόμα παιδί στο εργαστήριο του πατέρα του το 1824 σε ηλικία 15 χρονών.
+
+  
   - title: Επαγγελματική Εμπειρία # Title for the section
     layout: list # Type of content section (list/text)
     content:
