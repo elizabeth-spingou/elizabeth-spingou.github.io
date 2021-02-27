@@ -24,7 +24,7 @@ github_username:  elizabeth-spingou
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Είμαι εκπαιδευτικός με μεγάλη εμπειρία στο χώρο της εκπαίδευσης.Αγαπω τα παιδιά και προσπαθώ να δημιουργώ το καλύτερο κλίμα γι' αυτά.
+  Eκπαιδευτικός με μεγάλη εμπειρία στο χώρο της εκπαίδευσης. Αγαπω τα παιδιά και προσπαθώ να δημιουργώ το καλύτερο κλίμα γι' αυτά.
   
   Στοχος μου είναι η γνώση και η εξειδίκευση στην εκπαιδευτική κοινότητα των ατόμων που χρήζουν ειδική αντιμετώπιση.
 
@@ -52,7 +52,7 @@ content:
 
       - layout: left
         title: First Certificate In English 
-        caption: 1996
+        caption: 1995
         sub_title: Cambridge University
         description: | 
           English qualification proves competency in speaking and writing English well enough to work or study in an English-speaking environment.
@@ -63,10 +63,26 @@ content:
     layout: list
     content:
       - layout: left
-        title: Χρήση Η/Υ
+        title: Υπουργείο Παιδείας και Θρησκευμάτων
+        subtitle: Χρήση Η/Υ
         caption: as
         description: |
-          Πιστοποίηση δεξιοτήτων και γνώσεων στις τεχνολογίες πληροφορίας και επικοινωνίας του υπουργείου παιδείας επίπεδο A
+          Πιστοποίηση δεξιοτήτων και γνώσεων στις τεχνολογίες πληροφορίας και επικοινωνίας του υπουργείου παιδείας επίπεδο A.
+
+  - title: Σεμινάρια
+  layout: text
+  content: |
+    ### Σεμινάρια
+
+    * #### Βιωματικο Σεμιναρίου «δημιουργική γραφή»
+
+    * #### Βιωματικο Σεμιναρίου «τα ιστολογία στην εκπαίδευση»
+
+    * #### Υλοποίηση προγράμματος περιβαλλοντικής εκπ/σης «μέλισσας εργα-ανθρωπων αγαθα»
+
+    * #### Βιωματικο Σεμιναρίου «στοματική υγιεινή»
+
+
 
   
   - title: Επαγγελματική Εμπειρία # Title for the section
