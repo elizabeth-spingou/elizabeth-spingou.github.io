@@ -50,7 +50,7 @@ content:
 
           To Braille είναι το σύστημα γραφής και ανάγνωσης των τυφλών, το οποίο έχει αναγνωριστεί επίσημα από την πολιτεία με τον νόμο 36/99 του 2008. Δημιουργήθηκε από τον Louis Braille το 1829, ο οποίος έχασε την όρασή του ενώ ήταν ακόμα παιδί στο εργαστήριο του πατέρα του το 1824 σε ηλικία 15 χρονών.
 
-      - layout: left
+      - layout: top-middle
         title: First Certificate In English 
         caption: 1996
         sub_title: Cambridge University
