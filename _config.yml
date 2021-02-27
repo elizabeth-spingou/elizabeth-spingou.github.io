@@ -89,14 +89,16 @@ content:
         title: Εκπαιδευτικός 
         sub_title: Αναπληρώτρια
         caption: 2003 – 2005
-        description: | # this will include new lines to allow paragraphs
-            * Ολοήμερο Δημοτικό Σχολείο Γομοστού
-            * Δημοτικό Σχολείο Βίγλας ‘Αρτας
+        description: |
+          |Σχολείο|
+          |:----|
+          |**Ολοήμερο Δημοτικό Σχολείο Γομοστού**|
+          |Δημοτικό Σχολείο Βίγλας ‘Αρτας|
       
       - layout: left
         title: Εκπαιδευτικός 
         sub_title: Μόνιμη Οργανική Θέση 
-        caption: •	2003 – 2005
+        caption: •	2005 – Σήμερα
         description: | # this will include new lines to allow paragraphs
             |Σχολείο|Σχολείο Συν.|
             |:----|:----|
