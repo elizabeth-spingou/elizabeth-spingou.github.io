@@ -50,12 +50,23 @@ content:
 
           To Braille είναι το σύστημα γραφής και ανάγνωσης των τυφλών, το οποίο έχει αναγνωριστεί επίσημα από την πολιτεία με τον νόμο 36/99 του 2008. Δημιουργήθηκε από τον Louis Braille το 1829, ο οποίος έχασε την όρασή του ενώ ήταν ακόμα παιδί στο εργαστήριο του πατέρα του το 1824 σε ηλικία 15 χρονών.
 
-      - layout: top-middle
+      - layout: left
         title: First Certificate In English 
         caption: 1996
         sub_title: Cambridge University
-        description: | # this will include new lines to allow paragraphs
+        description: | 
+          English qualification proves competency in speaking and writing English well enough to work or study in an English-speaking environment.
 
+          Level of qualification: Upper intermediate = B2 on the Common European Framework.
+
+  - title: Ειδικές Γνώσεις
+    layout: list
+    content:
+      - layout: left
+        title: Χρήση Η/Υ
+        caption: as
+        description: |
+          Πιστοποίηση δεξιοτήτων και γνώσεων στις τεχνολογίες πληροφορίας και επικοινωνίας του υπουργείου παιδείας επίπεδο A
 
   
   - title: Επαγγελματική Εμπειρία # Title for the section
@@ -74,17 +85,7 @@ content:
 
   
 
-  - title: Ειδικές Γνώσεις
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
